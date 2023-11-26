@@ -20,3 +20,5 @@ static/our_gif/chess_geometry1.mp4 filter=lfs diff=lfs merge=lfs -text
 static/our_gif/tulip_appearance.mp4 filter=lfs diff=lfs merge=lfs -text
 static/our_gif/pancakes_appearance1.mp4 filter=lfs diff=lfs merge=lfs -text
 static/our_gif/pancakes_geometry1.mp4 filter=lfs diff=lfs merge=lfs -text
+static/our_gif/army_appearance1.mp4 filter=lfs diff=lfs merge=lfs -text
+static/our_gif/army_geometry1.mp4 filter=lfs diff=lfs merge=lfs -text
